@@ -1,4 +1,17 @@
-#REAL-TIME CHAT APPLICATION
+# REAL-TIME CHAT APPLICATION
+COMPANY NAME: CODTECH IT SOLUTIONS
+
+NAME: SENBAGALAKSHMI S
+
+INTERN ID:CT08WR123
+
+DOMAIN NAME: FRONT END DEVELOPMENT
+
+DURATION: 8 Weeks
+
+MENTOR NAME: NEELA SANTOSH
+
+As a part of my internship at CODTECH IT SOLUTIONS. I have a internship in FRONT END DEVELEVOPMENT, In task-2 REAL-TIME CHAT APPLICATION Using Reactjs and Nodejs , In Backend using Nodejs and pakage are installed and Frontend using Reactjs,Boostrap also and it packages are installed to bulid the application.
 
 # Getting Started with Create React App
 
@@ -70,3 +83,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# output
+
